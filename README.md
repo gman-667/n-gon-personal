@@ -4,10 +4,10 @@
   <a href="http://cyclokid.github.io/ngon" target="blank"><img src="https://i.imgur.com/xM2gDVX.png" width="120" alt="N-GON" /></a>
 </p>
 
-#### Making my fork just a little bit more me
+#### different fork from cyclokid
 
-Hosted on my own alternative site
+Hosted site
 
-[CycloKid's Site](https://cyclokid.github.io/n-gon-personal)
+[Gmans Site](https://cyclokid.github.io/n-gon-personal)
 
-no audio or sfx in this game 😔 (maybe a good thing if youre in school rn tho 🤔)
+no audio or sfx
