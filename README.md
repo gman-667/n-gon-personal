@@ -8,6 +8,6 @@
 
 Hosted site
 
-[Gmans Site](https://cyclokid.github.io/n-gon-personal)
+[Gmans Site](gman-667.github.io/n-gon-personal/)
 
 no audio or sfx
